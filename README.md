@@ -34,7 +34,7 @@ To ensure the app correctly intercepts Google Play Store redirects, you must man
    4. Ensure Open supported links is turned ON.
    5. Under Verified links or Supported web addresses, ensure all relevant market and Play Store URLs are checked.
 # FAQ
-1. **Why the project name called "anti google app play link" but the app itself is called "anti app store link?"**
+1. **Why the project name called "anti google play app link" but the app itself is called "anti app store link?"**
     - I wanted to named the app "anti google play app link" but it too long to the point that app did not show up in device the app tray as such I had shortened. I it keep the project name just in case poeple confuse it with Apple app store
 
 # Technical Implementation & Limitations
