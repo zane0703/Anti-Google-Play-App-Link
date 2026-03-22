@@ -12,7 +12,8 @@ Many non-tech-savvy users are easily tricked by "tab-under" scripts or deceptive
 # Key Features
 - **Redirect Interception:**  Blocks redirect calls that attempt to move the user from their current app/browser to the Google Play Store.
 - **APK Install Guard:** by setting this app as the default app for opening apk be able to block any attempt to sideload
-- **Auto-Close Mode (Advanced):** For tech-savvy users who are simply annoyed by ad redirects, the app can be configured to immediately close itself upon being triggered by a Play Store link, effectively "killing" the redirect attempt without requiring user interaction. 
+- **Warning message:** there be a warning message show up when the user click the Google play link or open apk file
+- **Auto-Close Mode (Advanced):** For tech-savvy users who are simply annoyed by ad redirects, the app can be configured to immediately close itself upon being triggered by a Play Store link instead of showing warning message, effectively "killing" the redirect attempt without requiring user interaction. 
 # Downloads (Pre-built Files)
 You can download the latest pre-built versions of the application from the Releases section of the repository:
 👉 [Download Pre-built Assets](https://github.com/zane0703/Anti-Google-Play-App-Link/releases)
@@ -37,6 +38,7 @@ To ensure the app correctly intercepts Google Play Store redirects, you must man
    7. rename the apk file extension to .xapk then and repaid the above 
    8. install the makeDefult.apk open click the button this will trigger to make the market:// schema as default
    9. you can uninstall the make default app
+**Note:** once compacted the set up you not be able to access google play via URL link and sideload app there no bypass option unless you clear default for this app you can choose to skip stap 6 and 7 if still want to sideload app
 # FAQ
 1. **Why the project name called "anti google play app link" but the app itself is called "anti app store link?"**
     - I wanted to named the app "anti google play app link" but it too long to the point that app did not show up in device the app tray as such I had shortened. I it keep the project name just in case poeple confuse it with Apple app store
