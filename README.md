@@ -38,7 +38,7 @@ To ensure the app correctly intercepts Google Play Store redirects, you must man
    7. rename the apk file extension to .xapk then and repaid the above 
    8. install the makeDefult.apk open click the button this will trigger to make the market:// schema as default
    9. you can uninstall the make default app
-
+<br/>
 **Note:** once compacted the set up you not be able to access google play via URL link and sideload app there no bypass option unless you clear default for this app you can choose to skip stap 6 and 7 if still want to sideload app
 # FAQ
 1. **Why the project name called "anti google play app link" but the app itself is called "anti app store link?"**
