@@ -5,7 +5,9 @@
 A specialized Android security utility designed to intercept aggressive advertisement redirects and unauthorized "sideloading" of APK files.
 # Motivation
 
-This application was developed out of personal necessity to protect family members—specifically my father—who frequently encountered aggressive mobile advertisements. These ads often triggered unknown app installations or forced the device to redirect to the Google Play Store without his consent.
+This application was developed out of personal necessity to protect family members specifically my father who frequently encountered aggressive mobile advertisements. These ads often triggered unknown app installations or forced the device to redirect to the Google Play Store without his consent.
+
+By the time I got around to servicing my father’s phone, it was already bombarded with countless pieces of junkware
 
 Many non-tech-savvy users are easily tricked by "tab-under" scripts or deceptive "Your phone is infected" alerts. This app acts as a protective layer to intercept those system calls (Intents) and provide a clear,  warning.
 
