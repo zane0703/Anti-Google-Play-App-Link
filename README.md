@@ -36,7 +36,7 @@ To ensure the app correctly intercepts Google Play Store redirects, you must man
    5. Under Verified links or Supported web addresses, ensure all relevant market and Play Store URLs are checked.
    6. use any apk file or create a fake apk file and then open it the installed devices select this app and click "always"
    7. rename the apk file extension to .xapk then and repaid the above 
-   8. install the makeDefult.apk open click the button this will trigger to make the market:// schema as default
+   8. install the makeDefault.apk open click the button this will trigger to make the market:// schema as default
    9. you can uninstall the make default app
 <br/>
 
@@ -46,7 +46,7 @@ To ensure the app correctly intercepts Google Play Store redirects, you must man
 1. **Why the project name called "anti google play app link" but the app itself is called "anti app store link?"**
     - I wanted to named the app "anti google play app link" but it too long to the point that app did not show up in device the app tray as such I had shortened. I it keep the project name just in case poeple confuse it with Apple app store
 2. **Why block google play app link wasn't google play safe**
-   - while Googel activity scan for any malicious app, some malicious app still managed pass through detection and in addition even if the app is non malicious there many aggressive advertisement may still redirect you to a app that you may not need it
+   - while Googel activity scan for any malicious app, some malicious app still managed pass through detection and in addition aggressive advertisement may still redirect you to install junkware that not malicious but you will be using it
 # Technical Implementation & Limitations
 
 The app functions by registering as a high-priority handler for specific Android Intents:
