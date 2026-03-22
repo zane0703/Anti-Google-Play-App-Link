@@ -14,7 +14,7 @@ Many non-tech-savvy users are easily tricked by "tab-under" scripts or deceptive
 # Key Features
 - **Redirect Interception:**  Blocks redirect calls that attempt to move the user from their current app/browser to the Google Play Store.
 - **APK Install Guard:** by setting this app as the default app for opening apk be able to block any attempt to sideload
-- **Warning message:** there be a warning message show up when the user click the Google play link or open apk file
+- **Warning message:** there be a warning message show up when the user click the Google play link or open apk file the user will not be able to open Google play via URL link there no option to bypass this warning 
 - **Auto-Close Mode (Advanced):** For tech-savvy users who are simply annoyed by ad redirects, the app can be configured to immediately close itself upon being triggered by a Play Store link instead of showing warning message, effectively "killing" the redirect attempt without requiring user interaction. 
 # Downloads (Pre-built Files)
 You can download the latest pre-built versions of the application from the Releases section of the repository:
