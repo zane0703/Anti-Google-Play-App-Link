@@ -46,7 +46,7 @@ To ensure the app correctly intercepts Google Play Store redirects, you must man
 1. **Why the project name called "anti google play app link" but the app itself is called "anti app store link?"**
     - I wanted to named the app "anti google play app link" but it too long to the point that app did not show up in device the app tray as such I had shortened. I it keep the project name just in case poeple confuse it with Apple app store
 2. **Why block google play app link wasn't google play safe**
-   - while Googel activity scan for any malicious app some app still managed pass through detection and in addition even if the app is non malicious there many aggressive advertisement may still redirect you to a app that you may not need it
+   - while Googel activity scan for any malicious app, some malicious app still managed pass through detection and in addition even if the app is non malicious there many aggressive advertisement may still redirect you to a app that you may not need it
 # Technical Implementation & Limitations
 
 The app functions by registering as a high-priority handler for specific Android Intents:
