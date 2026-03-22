@@ -24,3 +24,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Anti google play link"
 include(":app")
+include(":marketUrlTrgger")
