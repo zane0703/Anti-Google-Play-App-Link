@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Anti app store link</string>
+    <string name="link">An advertisement is attempting to redirect you to Google Play.&#10;For your security, we have blocked this automated request to prevent unauthorized app installations.</string>
+    <string name="apk">This app has intercepted an attempt to install a software package (APK).&#10;Unregulated "sideloading" is a primary vector for malware and can bypass system security features</string>
+</resources>

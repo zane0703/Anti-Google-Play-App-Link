@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Anti app store link</string>
+    <string name="link">检测到广告正尝试将您重定向至 Google Play 商店。&#10;为了您的设备安全，我们已拦截此自动请求，以防止未经授权的应用安装。</string>
+    <string name="apk">应用已成功拦截一次软件安装包 (APK) 的启动请求。&#10;非官方渠道的“侧载”安装是恶意软件入侵的主要途径，可能会绕过系统安全防护</string>
+</resources>
